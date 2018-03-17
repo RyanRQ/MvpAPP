@@ -1,7 +1,8 @@
-package com.ryanrq.mvpapp
+package com.ryanrq.mvpapp.ui.activity
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.ryanrq.mvpapp.R
 
 class MainActivity : AppCompatActivity() {
 
